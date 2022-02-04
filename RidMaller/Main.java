@@ -39,7 +39,7 @@ public class Main {
             codeMap.put(alphabet[i], alphabetCodes[i]);
         }
 
-        BufferedReader reader = new BufferedReader(new FileReader("C:\\Users\\ЛЕНОВО\\Desktop\\message.txt"));
+        BufferedReader reader = new BufferedReader(new FileReader("C:\\message.txt"));
 
         String line;
 
